@@ -1,5 +1,5 @@
 {
-  "name": "zarinpal-checkout",
+  "name": "zarinpal-checkout-fixed",
   "version": "0.2.5",
   "description": "Simple implementation of ZarinPal nodejs api so you can quickly start using API.",
   "repository": {
